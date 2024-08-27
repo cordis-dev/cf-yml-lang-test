@@ -1,4 +1,4 @@
-# 将处理状态发送到
+# テスト
 notifications:
   webhooks:
     urls:
