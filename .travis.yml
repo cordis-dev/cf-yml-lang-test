@@ -1,0 +1,5 @@
+# テスト
+notifications:
+  webhooks:
+    urls:
+      - test
